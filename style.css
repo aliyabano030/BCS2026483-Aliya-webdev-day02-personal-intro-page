@@ -1,0 +1,44 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f0f4ff;
+  color: #24304a;
+  line-height: 1.7;
+}
+
+header {
+  background: linear-gradient(135deg, #19356b, #4776e6);
+  color: white;
+  padding: 30px 20px;
+  border-radius: 16px;
+  margin-bottom: 25px;
+}
+
+header h1 {
+  font-size: 32px;
+  margin-top: 0;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 14px;
+  box-shadow: 0 4px 14px #00000010;
+}
+
+h2 {
+  color: #315ac2;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  color: #58657d;
+}
